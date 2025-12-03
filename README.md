@@ -6,7 +6,7 @@ It demonstrates the fundamentals of game logic, collision detection, rendering, 
 - Randomly generated pipes(Obstacles)
 - Frame by Frame rendering using Cairo
 - Png Frame export
-## Concept Learned:
+## CONCEPT LEARNED:
 - Working with `cairo.h` for 2D rendering  
 - Structs to manage game objects (`Bird`, `Obstacle`)  
 - Random obstacle generation  
@@ -15,7 +15,7 @@ It demonstrates the fundamentals of game logic, collision detection, rendering, 
 - Handling user input  
 - Exporting frames and generating animations  
 - Using FFmpeg to convert PNG frames to video
-## Future Improvements
+## FUTURE IMPROVEMENTS:
 - Add sprites for bird and pipes  
 - Sound effects  
 - Scoring UI  
